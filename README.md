@@ -1,2 +1,1 @@
-# WORLD-SOCCER-CHAMPS-DATAPACK-ITALY
-A DATA PACK FOR ONLY VALTELLINA TEAMS AND IT WILL BE CALLLED VALLTELINA A
+<img alt="Static Badge" src="https://img.shields.io/badge/:badgeContent">
