@@ -3,8 +3,10 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 
-About
-A DATA PACK FOR ONLY VALTELLINA TEAMS AND IT WILL BE CALLLED
+## About
+the data pack will modify the logo of the serie a and the name (valtelina a) 
+and it will remove the serie a player and it will put valtelina teams.
+
 
 ![Demo GIF](images/demo.gif)
 
