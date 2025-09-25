@@ -1,4 +1,4 @@
-# Awesome Project Title
+## grosio data packs for worldsoccerchamps
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Build Status](https://img.shields.io/github/actions/workflow/status/yourname/yourrepo/ci.yml)](https://github.com/yourname/yourrepo/actions)
