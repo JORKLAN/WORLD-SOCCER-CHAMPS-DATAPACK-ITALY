@@ -5,7 +5,7 @@
 
 ## About
 the data pack will modify the logo of the serie a and the name (valtelina a) 
-and it will remove the serie a player and it will put valtelina teams.
+and it will remove the serie a player and it will put valtelina teams. and add players of valtelina
 
 
 ![Demo GIF](images/demo.gif)
