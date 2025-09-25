@@ -15,3 +15,4 @@ A short description of your awesome project that does amazing things.
 
 ## Installation
 Step-by-step instructions here...
+dowload the zip file and load it in the game.
